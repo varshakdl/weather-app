@@ -19,8 +19,7 @@ A simple and responsive Weather Forecast application built with **HTML**, **CSS*
 - OpenWeather API
 
 ## 📸 Screenshots 
-
-(images/screenshot.png)
+![Weather App](images/screenshot.png)
 
 ## 👩‍💻 Author
 
